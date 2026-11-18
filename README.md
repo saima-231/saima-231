@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1e3a5f,100:6c63ff&text=Saima%20Sultana&fontColor=ffffff&fontSize=50&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Software%20Development%20%7C%20AI&descSize=15&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F2027,50:203A43,100:2C5364&text=SAIMA%20SULTANA&fontColor=FFFFFF&fontSize=48&fontAlignY=50&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descSize=15&descAlignY=75)
 
 # Hi, I'm Saima 👋
 

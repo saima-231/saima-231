@@ -6,6 +6,7 @@
 🎓 **Metropolitan University** | B.Sc. in Computer Science & Engineering
 
 💻 Software Development | 🤖 AI & Research
+
 I enjoy exploring technology, building practical projects, and learning how intelligent systems work.
 
 ---

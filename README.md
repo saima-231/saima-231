@@ -75,6 +75,7 @@ I enjoy exploring technology, building practical projects, and learning how inte
 
 ## 🤝 Connect With Me
 
+
 <p align="center">
   <a href="https://github.com/saima-231">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,10 +83,10 @@ I enjoy exploring technology, building practical projects, and learning how inte
   <a href="mailto:saimasultana6112015@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="saimas_231">
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/saima-s-abb51b376">
+  <a href="https://www.linkedin.com/in/saima-s-abb51b376/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

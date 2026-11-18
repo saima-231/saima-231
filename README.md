@@ -37,7 +37,8 @@ I'm a Computer Science student interested in software development, artificial in
 
 ### AI, Machine Learning & Data
 
-![AI and Data](https://skillicons.dev/icons?i=python,numpy,sklearn,jupyter)
+![AI and Data](https://skillicons.dev/icons?i=python,numpy,sklearn,jupyter&perline=4)
+
 
 ### Development Tools
 

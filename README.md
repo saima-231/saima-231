@@ -46,7 +46,6 @@ I'm a Computer Science student interested in software development, artificial in
 ---
 
 ## 🚀 Featured Projects
-## 🚀 Featured Projects
 
 <table>
 <tr>

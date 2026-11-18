@@ -1,6 +1,4 @@
-
-![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F2027,50:203A43,100:2C5364&text=SAIMA%20SULTANA&fontColor=FFFFFF&fontSize=48&fontAlignY=50&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descSize=15&descAlignY=75)
-
+![Saima Sultana - Developer Header](./header.svg)
 # Hi, I'm Saima 👋
 
 🎓 **Metropolitan University** | B.Sc. in Computer Science & Engineering

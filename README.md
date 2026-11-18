@@ -79,10 +79,10 @@ I enjoy exploring technology, building practical projects, and learning how inte
   <a href="https://github.com/saima-231">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:saimasultana6112015@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_DISCORD_PROFILE_URL">
+  <a href="saimas_231">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/saima-s-abb51b376">

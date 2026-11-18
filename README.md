@@ -73,7 +73,7 @@ I enjoy exploring technology, building practical projects, and learning how inte
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/saima-231">
@@ -85,10 +85,11 @@ I enjoy exploring technology, building practical projects, and learning how inte
   <a href="YOUR_DISCORD_PROFILE_URL">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="www.linkedin.com/in/saima-s-abb51b376">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
 
 *Curiosity drives learning. Building turns ideas into reality.*

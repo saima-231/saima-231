@@ -16,7 +16,11 @@ I'm a Computer Science student interested in building useful things with technol
 
 ### Technologies & Tools
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,git,github,vscode](https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,git,github,vscode)" /> \</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
 
 ### Some things I've worked on
 
@@ -29,10 +33,8 @@ I'm a Computer Science student interested in building useful things with technol
 
 ### GitHub Stats
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=saima-231&show_icons=true&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api?username=saima-231\&show_icons=true\&theme=transparent\&hide_border=true)" height="160" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=saima-231&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saima-231\&layout=compact\&theme=transparent\&hide_border=true)" height="160" /> \</p>
 
----
-
-\<p align="center">
-&#x20; \<i>Learning by building, one project at a time.\</i>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saima-231&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saima-231&layout=compact&theme=transparent&hide_border=true" height="160" />
+</p>
